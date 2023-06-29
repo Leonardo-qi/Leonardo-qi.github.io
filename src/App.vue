@@ -3,7 +3,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div>测试 github pages</div>
+  <div style="color: red;">测试 github pages</div>
 </template>
 
 <style scoped>
